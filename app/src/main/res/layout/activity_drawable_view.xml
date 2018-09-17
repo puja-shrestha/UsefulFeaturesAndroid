@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DrawableViewActivity">
+
+    <com.sackcentury.shinebuttonlib.ShineButton
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_centerInParent="true"
+        android:src="@android:color/darker_gray"
+        android:id="@+id/po_image2"
+        app:btn_color="@android:color/darker_gray"
+        app:btn_fill_color="@android:color/holo_green_dark"
+        app:allow_random_color="false"
+        app:siShape="@raw/like"/>
+
+</android.support.constraint.ConstraintLayout>
