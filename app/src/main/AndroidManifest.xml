@@ -16,17 +16,22 @@
         <activity android:name=".PathViewAnimationActivity" />
         <activity android:name=".RippleEffectBackgroudActivity" />
         <activity android:name=".DrawableViewActivity" />
-        <activity android:name=".parallax_tabLayout.ParallaxEffectTabLayoutActivity">
+        <activity android:name=".parallax_tabLayout.ParallaxEffectTabLayoutActivity" />
+        <activity
+            android:name=".SplashScreenActivity"
+            android:theme="@style/SplashTheme" />
+        <activity
+            android:name=".Splashscreen"
+            android:theme="@style/SplashTheme" />
+        <activity android:name=".expandableListViewWIthImagesAndTexts.ExpandableListViewActivity" />
+        <activity android:name=".customDialogueBox.CustomDialogueBoxActivity"></activity>
+        <activity android:name=".customDialogueBox.CustomDialogueBox2Activity">
 
         </activity>
         <activity
-            android:name=".SplashScreenActivity"
-            android:theme="@style/SplashTheme"></activity>
-        <activity
-            android:name=".Splashscreen"
-            android:theme="@style/SplashTheme"></activity>
-
-        <activity android:name=".expandableListViewWIthImagesAndTexts.ExpandableListViewActivity">
+            android:name=".stickyHeader.ScrollingActivity"
+            android:label="@string/title_activity_scrolling"
+            android:theme="@style/AppTheme">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
