@@ -11,17 +11,17 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".MainActivity" />
-        <activity android:name=".PushNotificationActivity" />
-        <activity android:name=".kenburnViewActivity" />
-        <activity android:name=".PathViewAnimationActivity" />
-        <activity android:name=".RippleEffectBackgroudActivity" />
-        <activity android:name=".DrawableViewActivity" />
+        <activity android:name=".pushNotification.PushNotificationActivity" />
+        <activity android:name=".kenburnView.kenburnViewActivity" />
+        <activity android:name=".pathViewAnimation.PathViewAnimationActivity" />
+        <activity android:name=".rippleEffect.RippleEffectBackgroudActivity" />
+        <activity android:name=".drawableView.DrawableViewActivity" />
         <activity android:name=".parallax_tabLayout.ParallaxEffectTabLayoutActivity" />
         <activity
-            android:name=".SplashScreenActivity"
+            android:name=".splashScreen.SplashScreenActivity"
             android:theme="@style/SplashTheme" />
         <activity
-            android:name=".Splashscreen"
+            android:name=".splashScreen.Splashscreen"
             android:theme="@style/SplashTheme" />
         <activity android:name=".expandableListViewWIthImagesAndTexts.ExpandableListViewActivity" />
         <activity android:name=".customDialogueBox.CustomDialogueBoxActivity"></activity>

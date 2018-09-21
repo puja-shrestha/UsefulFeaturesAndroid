@@ -1,10 +1,11 @@
-package com.example.puza.usefulfeatures;
+package com.example.puza.usefulfeatures.pathViewAnimation;
 
 import android.graphics.Path;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.animation.DecelerateInterpolator;
 
+import com.example.puza.usefulfeatures.R;
 import com.richpath.RichPath;
 import com.richpath.RichPathView;
 import com.richpathanimator.RichPathAnimator;

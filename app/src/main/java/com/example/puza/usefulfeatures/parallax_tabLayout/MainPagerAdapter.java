@@ -4,7 +4,7 @@ import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentStatePagerAdapter;
 
-import com.example.puza.usefulfeatures.PostsFragment;
+import com.example.puza.usefulfeatures.post.PostsFragment;
 
 public class MainPagerAdapter extends FragmentStatePagerAdapter {
 

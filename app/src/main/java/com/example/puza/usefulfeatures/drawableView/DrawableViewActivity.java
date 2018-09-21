@@ -1,4 +1,4 @@
-package com.example.puza.usefulfeatures;
+package com.example.puza.usefulfeatures.drawableView;
 
 import android.app.Activity;
 import android.graphics.Color;
@@ -6,6 +6,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.LinearLayout;
 
+import com.example.puza.usefulfeatures.R;
 import com.sackcentury.shinebuttonlib.ShineButton;
 
 

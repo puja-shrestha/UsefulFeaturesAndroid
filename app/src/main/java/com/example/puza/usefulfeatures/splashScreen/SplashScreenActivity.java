@@ -1,6 +1,5 @@
-package com.example.puza.usefulfeatures;
+package com.example.puza.usefulfeatures.splashScreen;
 
-import android.app.Activity;
 import android.content.Intent;
 import android.graphics.PixelFormat;
 import android.support.annotation.Nullable;
@@ -11,6 +10,9 @@ import android.view.animation.Animation;
 import android.view.animation.AnimationUtils;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
+
+import com.example.puza.usefulfeatures.MainActivity;
+import com.example.puza.usefulfeatures.R;
 
 public class SplashScreenActivity extends AppCompatActivity {
 

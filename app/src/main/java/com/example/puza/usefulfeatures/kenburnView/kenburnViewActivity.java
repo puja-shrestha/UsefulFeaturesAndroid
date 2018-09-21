@@ -1,8 +1,9 @@
-package com.example.puza.usefulfeatures;
+package com.example.puza.usefulfeatures.kenburnView;
 
 import android.app.Activity;
 import android.os.Bundle;
 
+import com.example.puza.usefulfeatures.R;
 import com.flaviofaria.kenburnsview.KenBurnsView;
 
 public class kenburnViewActivity extends Activity {

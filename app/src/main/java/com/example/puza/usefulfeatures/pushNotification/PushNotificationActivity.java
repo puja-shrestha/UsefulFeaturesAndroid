@@ -1,4 +1,4 @@
-package com.example.puza.usefulfeatures;
+package com.example.puza.usefulfeatures.pushNotification;
 
 import android.app.Notification;
 import android.app.NotificationManager;
@@ -10,6 +10,8 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
+
+import com.example.puza.usefulfeatures.R;
 
 public class PushNotificationActivity extends AppCompatActivity {
     EditText ed1,ed2,ed3;

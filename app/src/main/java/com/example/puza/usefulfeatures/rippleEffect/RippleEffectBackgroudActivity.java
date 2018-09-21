@@ -1,10 +1,11 @@
-package com.example.puza.usefulfeatures;
+package com.example.puza.usefulfeatures.rippleEffect;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.ImageView;
 
+import com.example.puza.usefulfeatures.R;
 import com.skyfishjy.library.RippleBackground;
 
 public class RippleEffectBackgroudActivity extends AppCompatActivity {
